@@ -5,7 +5,7 @@
 A simple app to help users know if they are whitelisted or not for an NFT mint.
 
 There are three categories of users:
-* whiteliste
+* whitelist
 * waitlist
 * reject
 
