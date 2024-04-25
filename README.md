@@ -39,4 +39,4 @@ This app was deployed with AWS Amplify. An application was started, the github r
 
 ### Acknowledgements
 
-Made with <3 with help from Engelgirl and Crypto Kyru.
+Made with 💙 from Engelgirl and Crypto Kyru.
